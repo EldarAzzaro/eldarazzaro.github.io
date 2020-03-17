@@ -1,0 +1,13 @@
+var str= 'string';
+
+var number = 25;
+
+var bool = false;
+
+var undefined;
+
+var null1 = null;
+
+var obj = {};
+
+var symbol = Symbol ( );
